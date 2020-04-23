@@ -1,0 +1,28 @@
+* {
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+body * {
+    outline: 1px solid pink;
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+}
+img {
+    width: 500px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1.25rem;
+}
